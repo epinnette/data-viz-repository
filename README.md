@@ -2,17 +2,16 @@
 my data visualizations
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for the class "Telling Stories with Data" -- but it should be called "Stories that Data Tells"
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! I'm Ellen (she/her/hers) and I'm a master's student studying public policy and management at Carnegie Mellon University's Heinz College of Information Technology and Public Policy in Pittsburgh, PA.
+
+I grew up in Maine but have also lived in California, Iowa, Washington DC, Michigan, and now Pennsylvania. I love the frenetic energy of cities, but I also think nature heals. I have worked in the international development field as well as the psychiatric research world, mostly focused on opioid use disorder treatment. Check out this [publication](https://journals.lww.com/journaladdictionmedicine/abstract/9900/telehealth_delivered_psychotherapy_for_the.217.aspx) I contributed to on alcohol use disorder!
+
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
+My goal for the class is to learn how to make beautiful and meaningful data visuals to better communicate for policy
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
