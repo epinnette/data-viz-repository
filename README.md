@@ -21,6 +21,9 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
-![adrift](![Adrift-Sammy-Slabbinck-Poster](https://github.com/epinnette/data-viz-repository/assets/143022629/113db212-952d-4c56-83e7-74f8c7442bdb)
+More on that later!
+
+(![![distant thunder_andrew wyeth](https://github.com/epinnette/data-viz-repository/assets/143022629/6f375f1c-26a7-4060-b65c-b1a2acc5f209)
+])
 
 
