@@ -21,9 +21,9 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
-More on that later!
+Until then...
 
-(![![distant thunder_andrew wyeth](https://github.com/epinnette/data-viz-repository/assets/143022629/6f375f1c-26a7-4060-b65c-b1a2acc5f209)
-])
+![distant thunder_andrew wyeth](https://github.com/epinnette/data-viz-repository/assets/143022629/856b2144-02f2-483c-808b-25dfd307be21)
+
 
 
