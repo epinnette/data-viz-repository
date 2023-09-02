@@ -12,16 +12,16 @@ My goal for the class is to learn how to make beautiful and meaningful data visu
 # Portfolio
 
 ## Assignment 1
-
+...
 
 ## Assignment 2
-
+...
 
 ## Assignment 3
-
+...
 
 ## Assignment 4
-
+...
 
 ## Final project
 For now, please enjoy *Distant Thunder* by Andrew Wyeth
