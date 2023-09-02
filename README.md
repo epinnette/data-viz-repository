@@ -2,7 +2,7 @@
 This is my public portfolio for the class "Telling Stories with Data" at Carnegie Mellon University's Heinz College of Information Technology and Public Policy in Pittsburgh, PA.
 
 # About me
-Hi! I'm Ellen (she/her/hers) and I'm a master's student studying public policy and management. I'm interested in social policy and program evaluation.
+Hi! I'm Ellen (she/her/hers) and I'm a second-year master's student studying public policy and management. I'm interested in social policy and program evaluation.
 
 I grew up in Maine but have also lived in California, Iowa, Washington DC, Michigan, and now Pennsylvania. My first job(s) were in the international development field, which was exciting, tiring, and fun. Before started grad school, I worked as a psychiatric research coordinator, focusing on a study about treatment for opioid use disorder among people experiencing chronic pain. Check out this [publication](https://journals.lww.com/journaladdictionmedicine/abstract/9900/telehealth_delivered_psychotherapy_for_the.217.aspx) in the Journal of Addiction Medicine about telehealth treatment for alcohol use disorder that I worked on!
 
