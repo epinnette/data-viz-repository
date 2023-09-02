@@ -11,11 +11,17 @@ My goal for the class is to learn how to make beautiful and meaningful data visu
 
 # Portfolio
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+## Assignment 1
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+
+## Assignment 2
+
+
+## Assignment 3
+
+
+## Assignment 4
+
 
 ## Final project
 For now, please enjoy *Distant Thunder* by Andrew Wyeth
