@@ -1,6 +1,3 @@
-# data-viz-repository
-my data visualizations
-
 # Introduction
 This is my public portfolio for the class "Telling Stories with Data" at Carnegie Mellon University's Heinz College of Information Technology and Public Policy in Pittsburgh, PA.
 
@@ -21,7 +18,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
-Until then, enjoy *Distant Thunder* by Andrew Wyeth
+For now, please enjoy *Distant Thunder* by Andrew Wyeth
 
 ![distant thunder_andrew wyeth](https://github.com/epinnette/data-viz-repository/assets/143022629/856b2144-02f2-483c-808b-25dfd307be21)
 
