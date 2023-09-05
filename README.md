@@ -11,6 +11,8 @@ My goal for the class is to learn how to make beautiful and meaningful data visu
 
 # Portfolio
 
+[click here for my King county covid chart](king-county-demo.md)
+
 ## Assignment 1
 ...
 
