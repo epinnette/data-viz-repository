@@ -4,4 +4,3 @@
 ## Visualizing OECD Countries' Debt: 1995-2019.
 <div class="flourish-embed flourish-chart" data-src="visualisation/14975071"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
