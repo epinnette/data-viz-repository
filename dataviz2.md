@@ -7,5 +7,5 @@
 <div class="flourish-embed flourish-chart" data-src="visualisation/14975071"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Part 3: OECD Debt, 1995-2022
-Organisation for Economic Co-operation and Development (OECD) countries' government debt as a percent of GDP by year.
+This hierarchal treemap visualizing the government debt of Organisation for Economic Co-operation and Development (OECD) countries as a percent of GDP, sorted by year.
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/14975451"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
