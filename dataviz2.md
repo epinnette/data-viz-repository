@@ -7,5 +7,4 @@
 <div class="flourish-embed flourish-chart" data-src="visualisation/14975071"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Part 3: A New Visual
-<div class="flourish-embed flourish-chart" data-src="visualisation/14975215"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/14975451"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
