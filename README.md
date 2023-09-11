@@ -11,7 +11,7 @@ My goal for the class is to learn how to make beautiful and meaningful data visu
 
 # Portfolio
 
-[click here for my King county COVID chart](king-county-demo.md)
+[Check out my King county COVID chart here!](king-county-demo.md)
 
 ## Assignment 1: Visualizing government debt
 ### [Check out my data visualizations for assignment 1 page here!](/dataviz2.md)
