@@ -7,5 +7,13 @@
 <div class="flourish-embed flourish-chart" data-src="visualisation/14975071"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Part 3: OECD Debt, 1995-2022
-This hierarchal treemap visualizing the government debt of Organisation for Economic Co-operation and Development (OECD) countries as a percent of GDP, sorted by year.
+This hierarchal treemap visualizes the government debt of Organisation for Economic Co-operation and Development (OECD) countries as a percent of GDP, sorted by year.
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/14975451"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+Compared to the data visualization in part 2, the hierarchal treemap offers a very different view of the government debt data. In part 2, the grid of line charts groups the data by country and then shows the change in debt across time in each chart. This means the main information communicated is the change in debt for each individual country. Some comparisons might be able to be made across countries, but because there are many countries it is hard to make meaningful comparisons except between the most obvious differences in debt. For example, it is easy to see the difference in debt between Japan and Norway because the two line graphs are positioned close to one another and the visual difference is clear. But it is harder to discern the difference in debt between Hungary and Lithuania, because the line graphs are not close together and the difference in debt isn't obvious.
+
+In contrast, the hierarchal treemap in part 3 groups the data by year, allowing the audience to make easier comparisons across countries for a given year, but harder to see the differences in a single country across time. I liked this visualization because of the interactive component, which personalizes the audience experience with the data.
+
+
+
