@@ -70,56 +70,56 @@ I ended up asking for feedback on all three sketches, even though there are some
 
 From a 25-year-old MSPPM-DA student:
 
-Can you tell me what you think this is?
+<b>Can you tell me what you think this is?</b>
 
 1: this is barplot showing me US total births over many past decades with significant dates
 2: this is a barplot showing me total teen births from 1950-2020 broken down by different age groups
 3: this is an area plot showing me total teen births from 1950-2020 broken down by different age groups
 
 
-Can you describe to me what this is telling you?
+<b>Can you describe to me what this is telling you?</b>
 
 1: this graph is telling me that after the roe v wade decision, total births gradually decreased
 2: there are significantly more births for the 15-17 age group
 3: there are significantly more births for the 18-19 age group
 
 
-Is there anything you find surprising or confusing?
+<b>Is there anything you find surprising or confusing?</b>
 
 1: I didn’t realize births declined after that roe v wade
 2: I didn’t realize teen births peaked in the 70s
 3: Yes. It doesn’t match/look like what the previous graph is telling me even though I’m assuming that it should be?
 
 
-Who do you think is the intended audience for this?
+<b>Who do you think is the intended audience for this?</b>
 
 1: women, general public, or people in supreme or lawmakers to show potential impact of a SCOTUS decision 
 2: teens, lawmakers, general public, or people involved/work in supporting pregnant teens (doctors, nurses, therapists, counselors, social workers)
 3: same as previous
 
 
-Is there anything you would change or do differently?
+<b>Is there anything you would change or do differently?</b>
 
 1: when was birth control made accessible to the public? Could that be another significant date?
 2: nope!
 3: I personally like that bar chart more than the area chart because I think it’s easier to read
 
 
-Anything you love about the visual?
+<b>Anything you love about the visual?</b>
 
 1: I really like how you showed the major events - contextualizes and adds more significance to the chart. I like how it’s in a brighter color too.
 2: the colors
 3:colors!
 
 
-Anything you hate about the visual?
+<b>Anything you hate about the visual?</b>
 
 1: maybe there’s no x and y axes labels?
 2:no it’s great (other than x and y axes labels?)
 3: no
 
 
-Anything you must tell me about the visual that you haven't already said?
+<b>Anything you must tell me about the visual that you haven't already said?</b>
 
 1: nope! It looks great
 2: nope!
