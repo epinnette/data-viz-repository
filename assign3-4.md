@@ -15,12 +15,19 @@ Source: Congressional Research Service, https://crsreports.congress.gov/product/
 ## Part 2: My Critique
 
 Usefullness: 7/10
+
 Completeness: 6/10
+
 Perceptibility: 6/10
+
 Truthfulness: 7/10
+
 Intuitiveness: 4/10
+
 Aesthetics: 4/10
+
 Engagement: 5/10
+
 
 First looking at this graph, it is fairly clear with its intent and message, as it is easy to see the title, timeline, and downward sloping trend lines with various age groups represented. It’s easy to put together that this graph shows health data over time.
 
