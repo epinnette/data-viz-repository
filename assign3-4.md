@@ -6,6 +6,9 @@ The data visualization I will critique and redesign is found in a Congressional 
 
 
 ![teen birth trends screenshot](https://github.com/epinnette/data-viz-repository/assets/143022629/264d2066-9ef5-4112-abbc-59e2e14a9071)
+
+
+
 Source: Congressional Research Service, https://crsreports.congress.gov/product/pdf/R/R45184
 
 
