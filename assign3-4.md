@@ -51,7 +51,7 @@ To redesign the data visual, I sketched out a few ideas:
 
 ### Sketch 1:
 
-![sketch 1](https://github.com/epinnette/data-viz-repository/assets/143022629/17f9582a-254e-42a2-a0d3-ce54362a5d51) (width="600" height="300")
+<img src="![sketch 1](https://github.com/epinnette/data-viz-repository/assets/143022629/17f9582a-254e-42a2-a0d3-ce54362a5d51)" width="100" height="100" />
 
 
 ### Sketch 2:
