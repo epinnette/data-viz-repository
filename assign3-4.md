@@ -68,7 +68,7 @@ To redesign the data visual, I sketched out a few ideas:
 
 I ended up asking for feedback on all three sketches, even though there are some rather significant differences in the designs.
 
-From a 25-year-old MSPPM-DA student:
+### From a 25-year-old MSPPM-DA student:
 
 <b>Can you tell me what you think this is?</b>
 
@@ -140,6 +140,79 @@ From a 25-year-old MSPPM-DA student:
 2: nope!
 
 3: no but I like area charts because they’re less commonly used than some of the other data visualizations like pie chart or bar plot or whatever 
+
+### From a 26-year-old MSPPM flagship student:
+
+<b>Can you tell me what you think this is?</b>
+
+1: 
+
+2: 
+
+3: 
+
+
+<b>Can you describe to me what this is telling you?</b>
+
+1: 
+
+2: 
+
+3: 
+
+
+<b>Is there anything you find surprising or confusing?</b>
+
+1: 
+
+2: 
+
+3: 
+
+
+<b>Who do you think is the intended audience for this?</b>
+
+1: 
+
+2: 
+
+3: 
+
+
+<b>Is there anything you would change or do differently?</b>
+
+1: 
+
+2: 
+
+3: 
+
+
+<b>Anything you love about the visual?</b>
+
+1: 
+
+2: 
+
+3: 
+
+
+<b>Anything you hate about the visual?</b>
+
+1: 
+
+2: 
+
+3: 
+
+
+<b>Anything you must tell me about the visual that you haven't already said?</b>
+
+1: 
+
+2: 
+
+3: 
 
 
 
