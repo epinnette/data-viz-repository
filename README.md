@@ -21,11 +21,9 @@ Extra data viz! [Check out my King county COVID chart here](king-county-demo.md)
 ## Assignment 2
 ...
 
-## Assignment 3
-...
+## Assignment 3 & 4
+### [Check out my redesigned data visual for assignment 3&4 here!](/assign3-4.md)
 
-## Assignment 4
-...
 
 ## Final project
 For now, please enjoy *Distant Thunder* by Andrew Wyeth
