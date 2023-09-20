@@ -47,4 +47,27 @@ That said, I think the critique misses an assessment of emotionality (as appropr
 
 ## Part 2: Sketching a Redesign
 
+To redesign the data visual, I sketched out a few ideas:
+
+### Sketch 1:
+
+![sketch 1](https://github.com/epinnette/data-viz-repository/assets/143022629/17f9582a-254e-42a2-a0d3-ce54362a5d51)
+
+
+### Sketch 2:
+
+![sketch 2](https://github.com/epinnette/data-viz-repository/assets/143022629/e4ff2653-a4f0-4d17-9a2b-eb1d9b08c20f)
+
+
+### Sketch 3:
+
+![sketch 3](https://github.com/epinnette/data-viz-repository/assets/143022629/31ec0ba5-8998-409c-acb8-c8fe885bd268)
+
+
+
+
+
+
+
+
 
