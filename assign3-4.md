@@ -145,74 +145,66 @@ I ended up asking for feedback on all three sketches, even though there are some
 
 <b>Can you tell me what you think this is?</b>
 
-1: 
+1: Number of teen births across time
 
-2: 
+2: Same. Or teen pregnancies?
 
-3: 
+3: Same
 
 
 <b>Can you describe to me what this is telling you?</b>
 
-1: 
+1: How many babies were born (not how many parents) with the political context
 
-2: 
+2: Same but this time broken out by age group, and showing every decade for each age
 
-3: 
+3: Year by year changes
 
 
 <b>Is there anything you find surprising or confusing?</b>
 
-1: 
+1: Not sure if this is the number of parents, pregnancies, or children? Are these averages? Why every 5 years?
 
-2: 
+2: Same as the first, also age group numbers are surprising 
 
-3: 
+3: Surprised at the jump in the 1970s
 
 
 <b>Who do you think is the intended audience for this?</b>
 
-1: 
+1: Anyone researching policy effects
 
-2: 
+2: Any type of researcher, not just a policy researcher
 
-3: 
+3: A researcher looking for patterns
 
 
 <b>Is there anything you would change or do differently?</b>
 
-1: 
+1: Make y-axis a percent because population increase would affect the values
 
-2: 
+2: Add labels
 
-3: 
+3: Add the location information, add axes, choose different colors for better contrast
 
 
 <b>Anything you love about the visual?</b>
 
-1: 
+1: Colors showing the court cases are good and stand out well
 
-2: 
+2: Like seeing the age groups
 
-3: 
+3: Love the flow and cintinuousness of the areachart because it's easier to see group change
 
 
 <b>Anything you hate about the visual?</b>
 
-1: 
+1: No!
 
-2: 
+2: Don't like the bar chart, would rather see a histogram
 
-3: 
+3: No
 
-
-<b>Anything you must tell me about the visual that you haven't already said?</b>
-
-1: 
-
-2: 
-
-3: 
 
 
 ## Part 4: The First Redesign
