@@ -239,7 +239,7 @@ I was able to get critique in-class from my group, who gave me some helpful feed
 
 A point we discussed a lot was the storyline of the data. The original data visual doesn't have much of a story except for change over time. My group discussed the issue of suggesting causality by including the policy moments. Even though it's interesting to see these extra data, it feels unethical to suggest the story of the data is something that ultimately, it isn't. We concluded that although a very discerning audience might not jumpt to causality from the policy moment included, most people (the general public) would! Other ideas to overlay on top of this data, such as economic or education trends, would create the same problem.
 
-From this conversation, I thought more about the orginal data visual and didn't want to stray too far from that message, so in my final redesign I didn't include any policy moments in the timeline. I changed the timeline marks, added a calculated sum of total teen births for each year that would show in the Tableau tooltip
+From this conversation, I thought more about the orginal data visual and didn't want to stray too far from that message, so in my final redesign I didn't include any policy moments in the timeline. I changed the timeline marks, added a calculated sum of total teen births for each year that would show in the Tableau tooltip, and updated the title and legend for better clarity. With these changes, I think the final redesign is more beautiful, has a stronger emotional impact, and more clearly communicates the key message of the data.
 
 
 ## Part 5.3: Final Redesign
