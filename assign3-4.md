@@ -215,6 +215,19 @@ I ended up asking for feedback on all three sketches, even though there are some
 3: 
 
 
-## The Redesign
+## Part 4: The First Redesign
+
+After receiving the critique from my two friends, I had more information than I could really apply to a single redesign, in part due to the fact that I'd had them review 3 redesign ideas, rather than just 1. Some key critique points that stood out to me were:
+
+1. Including momentous policy into the timeline, such as Roe vs. Wade, made the audience think that the point of the data visual was to infer a causal relationship between the policy and the data trend.
+
+2. This led to a change in the presumed audience. Instead of the general public, it switched the audience to decision-makers, which is relevant for a portion of the original visual's audience (U.S. Congressmembers).
+
+3. My friends really liked the inclusion of those policy moments! (typical public policy grad students).
+
+4. It isn't immediately clear from the sketches whether the visual shows number of teen mothers, number of teen pregnancies, or number of teen births, which are ultimately related but distinct.
+
+My first attempt to redesign the visual after feedback produced this areachart in Tableau:
+
 
 <div class='tableauPlaceholder' id='viz1695253713752' style='position: relative'><noscript><a href='#'><img alt='U.S. Teen Births, 1940 - 2013 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;re&#47;redesign_v4&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='redesign_v4&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;re&#47;redesign_v4&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1695253713752');        var vizElement = divElement.getElementsByTagName('object')[0];vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
