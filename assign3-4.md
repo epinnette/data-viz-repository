@@ -45,9 +45,11 @@ I think this evaluation method was effective because it assessed the most import
 
 That said, I think the critique misses an assessment of emotionality (as appropriate). For social issue data, I think data visuals that can invoke an emotional response are often more effective, because this brings back the “human element” that is often sanitized from data. This isn’t assessed in the current evaluation criteria but would be meaningful to consider for this type of data and/or message.
 
-## Part 2: Sketching a Redesign
+## Part 3: Sketching a Redesign
 
-To redesign the data visual, I sketched out a few ideas:
+To redesign the data visual, I sketched out a few ideas that moved away from a birth rate line chart and instead focused on absolute numbers. I didn't like the line chart because I think it ultimately misses what I find to be the most important part of this topic: that each datum represents an American teenager who gave birth. I don't like the idea of summarizing or calculating that type of data because I think it makes it easier to forget the real people who are behind the numbers. That said, sometimes the data values are so large that it becomes too easy to focus on that element, rather than seeing rates change over time.
+
+I wanted to express that part of the data, but still focus on the change over time. I also had a few ideas about including relevant policy timepoints to the visual, such as Roe v. Wade (1973) and the Dobb's decision (2022). So I decided to sketch a few ideas to see how I could play with these elements and the data and still retain the key message of the original visual.
 
 ### Sketch 1:
 
@@ -64,9 +66,9 @@ To redesign the data visual, I sketched out a few ideas:
 ![sketch 3](https://github.com/epinnette/data-viz-repository/assets/143022629/31ec0ba5-8998-409c-acb8-c8fe885bd268)
 
 
-## Part 3: Testing the Redesigns
+## Part 4: Testing the Redesigns
 
-I ended up asking for feedback on all three sketches, even though there are some rather significant differences in the designs.
+I ended up asking for feedback on all three sketches, even though there are some significant differences in the designs.
 
 ### From a 25-year-old MSPPM-DA student:
 
@@ -206,8 +208,7 @@ I ended up asking for feedback on all three sketches, even though there are some
 3: No
 
 
-
-## Part 4: The First Redesign
+## Part 5.1: The First Redesign
 
 After receiving the critique from my two friends, I had more information than I could really apply to a single redesign, in part due to the fact that I'd had them review 3 redesign ideas, rather than just 1. Some key critique points that stood out to me were:
 
@@ -215,7 +216,7 @@ After receiving the critique from my two friends, I had more information than I 
 
 2. This led to a change in the presumed audience. Instead of the general public, it switched the audience to decision-makers, which is relevant for a portion of the original visual's audience (U.S. Congressmembers).
 
-3. My friends really liked the inclusion of those policy moments! (typical public policy grad students).
+3. My friends really liked the inclusion of those policy moments (typical public policy grad students)!
 
 4. It isn't immediately clear from the sketches whether the visual shows number of teen mothers, number of teen pregnancies, or number of teen births, which are ultimately related but distinct.
 
@@ -223,3 +224,14 @@ My first attempt to redesign the visual after feedback produced the below areach
 
 
 <div class='tableauPlaceholder' id='viz1695253713752' style='position: relative'><noscript><a href='#'><img alt='U.S. Teen Births, 1940 - 2013 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;re&#47;redesign_v4&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='redesign_v4&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;re&#47;redesign_v4&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1695253713752');        var vizElement = divElement.getElementsByTagName('object')[0];vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
+
+I opted for the areachart design because I thought this was a better representation of the whole of the story. The wash of color better connects all the teen births that occurred and made me think more about how that experience probably changed the lives of those teens forever, whereas bar charts can make it seem like these births were contained, singular moments.
+
+
+## Part 5.2: Critique from Classmates
+
+
+
+
+
+
