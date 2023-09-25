@@ -41,7 +41,7 @@ For the "resolution", I'd like to include a comparison of the birth rates in the
 
 ### Birth rates
 
-<[sketch 6_birth rates src="[https://your-image-url.type](https://github.com/epinnette/data-viz-repository/assets/143022629/cb4ca85e-27d6-422a-8d1c-3fd35ce2edf2)" width="100" height="100">
+<sketch 6_birth rates src="https://github.com/epinnette/data-viz-repository/assets/143022629/cb4ca85e-27d6-422a-8d1c-3fd35ce2edf2" width="100" height="100">
 
 
 ## Data
