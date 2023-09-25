@@ -15,6 +15,18 @@ For the "resolution", I'd like to include a comparison of the birth rates in the
 
 ## Initial sketches
 
+### The wage gap
+
+
+### Attitudes toward violence against women
+
+
+### National policies on paid parental leave
+
+
+### Birth rates
+
+
 ## Data
 
 ### Sources
@@ -25,9 +37,7 @@ For data on the gender wage gap, attitudes toward violence against women, and pa
 
 Similarly, the United Nations is also an international organization collecting data on member countries's social, economic, and development metrics. Because the two organizations have differing country members, I'll select countries for my project that are consistent across both data sources.
 
-### How the data will be used
-
-### Link to the dataset
+### Link to the datasets
 
 [Data from the OECD for the gender wage gap](https://data.oecd.org/earnwage/gender-wage-gap.htm)
 
