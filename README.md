@@ -16,18 +16,18 @@ Extra data viz! [Check out my King county COVID chart here](king-county-demo.md)
 [Check out my Trust in News Media chart here](trust_in_media.md)
 
 ## Assignment 1: Visualizing government debt
-### [Check out my data visualizations for assignment 1 page here!](/dataviz2.md)
+### [Check out my data visualizations for assignment 1 page here!](dataviz2.md)
 
 ## Assignment 2
 ...
 
 ## Assignment 3 & 4
-### [Check out my redesigned data visual for assignment 3&4 here!](/assign3-4.md)
+### [Check out my redesigned data visual for assignment 3&4 here!](assign3-4.md)
 
 
 ## Final project
 
-### [Part 1](/final_pt_1.md)
+### [Part 1](final_pt_1.md)
 
 
 ### Part 2
