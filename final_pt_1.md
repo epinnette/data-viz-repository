@@ -25,7 +25,7 @@ For the "resolution", I'd like to include a comparison of the birth rates in the
 
 ### Instances of violence against women
 
-<img src="https://github.com/epinnette/data-viz-repository/assets/143022629/30254c99-ebd6-4794-88b7-271648d73717" width="500" height="400">
+<img src="https://github.com/epinnette/data-viz-repository/assets/143022629/30254c99-ebd6-4794-88b7-271648d73717" width="400" height="400">
 
 ### Paid parental leave in weeks
 
