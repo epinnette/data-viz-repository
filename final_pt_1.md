@@ -17,11 +17,13 @@ For the "resolution", I'd like to include a comparison of the birth rates in the
 
 ## Data
 
-### Source
+### Sources
 
-I'll use data from the OECD, as this group has collected extensive data on its member countries and this allows for interesting data for each of the three chosen countries. The OECD has downloadable CSV files of raw data, so I will use these and focus on the most recent year collected that is consistent across the three chosen countries and the metrics.
+I'll use data from the OECD, as this group has collected extensive data on its member countries and this allows for interesting data for each of the three chosen countries, and the UN, as they also collect extensive data on multiple countries. For birth rate data, I'll use UN data rather than OECD data, because this data is more up to date than the OECD's birth rate data. Both the OECD and UN have downloadable CSV files of raw data, so I will use these and focus on the most recent year collected that is consistent across the three chosen countries and the metrics. I believe different data sources that focus on the same three countries will make for an interesting story, as this will be a way to compare countries across different metrics, for the same time period.
 
-For birth rate data, I'll use data collected by the United Nations, which is publically accessible and can be downloaded as a CSV. This data is more up to date than OECD birth rate data, so I belive it is a better choice for this story.
+For data on the gender wage gap, attitudes toward violence against women, and parental leave, I'll use data from the OECD, which is an international economic cooperation group of 38 countries, including the United States. They collect data on social, economic, and development metrics, making them a reliable and robust source of data for a topic related to parental leave policy.
+
+Similarly, the United Nations is also an international organization collecting data on member countries's social, economic, and development metrics. Because the two organizations have differing country members, I'll select countries for my project that are consistent across both data sources.
 
 ### How the data will be used
 
