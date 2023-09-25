@@ -23,6 +23,12 @@ For the "resolution", I'd like to include a comparison of the birth rates in the
 
 ### Link to the dataset
 
+I'll use data from the OECD statistics site, which has a lot of different measurements for many different countries.
+
+[OECD datasets](https://stats.oecd.org/index.aspx?queryid=54760)
+
+
+
 ## Method for the project
 
 I'll create a Shorthand story to deliver the project's story and showcase the data visuals
