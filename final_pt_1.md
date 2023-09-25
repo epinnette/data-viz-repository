@@ -27,11 +27,9 @@ For birth rate data, I'll use data collected by the United Nations, which is pub
 
 ### Link to the dataset
 
-I'll use data from the OECD statistics site, which has a lot of different measurements for many different countries.
+[Data from the OECD](https://stats.oecd.org/index.aspx?queryid=54760)
 
-[OECD datasets](https://stats.oecd.org/index.aspx?queryid=54760)
-
-
+[Data from the UN](https://population.un.org/dataportal/data/indicators/55/locations/840,170,752/start/1990/end/2023/table/pivotbylocation)
 
 ## Method for the project
 
