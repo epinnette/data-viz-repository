@@ -33,7 +33,7 @@ For the "resolution", I'd like to include a comparison of the birth rates in the
 
 ### Percent income received during parental leave
 
-<img src="https://github.com/epinnette/data-viz-repository/assets/143022629/f5748610-9721-4ae7-a9f7-279151b1cf78" width="500" height="400">
+<img src="https://github.com/epinnette/data-viz-repository/assets/143022629/f5748610-9721-4ae7-a9f7-279151b1cf78" width="600" height="400">
 
 ### Birth rates
 
