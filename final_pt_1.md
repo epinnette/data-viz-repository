@@ -27,13 +27,13 @@ For birth rate data, I'll use data collected by the United Nations, which is pub
 
 ### Link to the dataset
 
-[Data from the OECD for parental leave](https://stats.oecd.org/index.aspx?queryid=54760)
-
 [Data from the OECD for the gender wage gap](https://data.oecd.org/earnwage/gender-wage-gap.htm)
 
 [Data from the OECD on attitudes toward violence against women](https://stats.oecd.org/index.aspx?queryid=95704)
 
-[Data from the UN with example countries chosen](https://population.un.org/dataportal/data/indicators/55/locations/840,170,752/start/1990/end/2023/table/pivotbylocation)
+[Data from the OECD for parental leave](https://stats.oecd.org/index.aspx?queryid=54760)
+
+[Data from the UN for birth rates (with example countries chosen)](https://population.un.org/dataportal/data/indicators/55/locations/840,170,752/start/1990/end/2023/table/pivotbylocation)
 
 ## Method for the project
 
