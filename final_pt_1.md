@@ -17,27 +17,23 @@ For the "resolution", I'd like to include a comparison of the birth rates in the
 
 ### The wage gap
 
-![sketch 1_gender wage gap](https://github.com/epinnette/data-viz-repository/assets/143022629/01e17f19-65a8-4ebc-b6e1-3c6c0a9254d0)
-
+<img src="https://github.com/epinnette/data-viz-repository/assets/143022629/01e17f19-65a8-4ebc-b6e1-3c6c0a9254d0" width="400" height="400">
 
 ### Attitudes toward violence against women
 
-![sketch 2_attitudes toward violence](https://github.com/epinnette/data-viz-repository/assets/143022629/62c7d1a1-fcf9-4023-91c9-1108b8420e33)
+<img src="https://github.com/epinnette/data-viz-repository/assets/143022629/62c7d1a1-fcf9-4023-91c9-1108b8420e33" width="400" height="400">
 
 ### Instances of violence against women
 
-![sketch 3_violence](https://github.com/epinnette/data-viz-repository/assets/143022629/30254c99-ebd6-4794-88b7-271648d73717)
-
+<img src="https://github.com/epinnette/data-viz-repository/assets/143022629/30254c99-ebd6-4794-88b7-271648d73717" width="400" height="400">
 
 ### Paid parental leave in weeks
 
-![sketch 4_parental leave weeks](https://github.com/epinnette/data-viz-repository/assets/143022629/fdd4de8d-366f-41f7-8f25-12fe0dbbbc9e)
-
+<img src="https://github.com/epinnette/data-viz-repository/assets/143022629/fdd4de8d-366f-41f7-8f25-12fe0dbbbc9e" width="400" height="400">
 
 ### Percent income received during parental leave
 
-![sketch 5_parental leave income](https://github.com/epinnette/data-viz-repository/assets/143022629/f5748610-9721-4ae7-a9f7-279151b1cf78)
-
+<img src="https://github.com/epinnette/data-viz-repository/assets/143022629/f5748610-9721-4ae7-a9f7-279151b1cf78" width="400" height="400">
 
 ### Birth rates
 
