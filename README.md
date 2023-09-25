@@ -26,6 +26,9 @@ Extra data viz! [Check out my King county COVID chart here](king-county-demo.md)
 
 
 ## Final project
+
+### [Part 1](/final-pt-1.md)
+
 For now, please enjoy *Distant Thunder* by Andrew Wyeth
 
 ![distant thunder_andrew wyeth](https://github.com/epinnette/data-viz-repository/assets/143022629/856b2144-02f2-483c-808b-25dfd307be21)
