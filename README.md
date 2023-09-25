@@ -27,7 +27,7 @@ Extra data viz! [Check out my King county COVID chart here](king-county-demo.md)
 
 ## Final project
 
-### [Part 1](/final-pt-1.md)
+### [Part 1](/final_pt_1.md)
 
 
 ### Part 2
