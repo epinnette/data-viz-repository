@@ -6,7 +6,7 @@ I'm interested in the effect of parental leave--both maternity and paternity lea
 
 ## Project structure
 
-For my final project, I'd like to create a story about national paid parental leave policies. For the "setup" of the story, I'll show data on gender equity measures in three different countries--one being the U.S.--to set the tone for the overall portrait of gender equity. This is often hard to conceptualize as a measurement, but the OECD does have metrics for this. Then, I'd like to include data on women's and men's wages. I think this helps to paint a picture of a country's gender culture in a very practical way, via wages. I'd like to include some narrative about the relevancy of the data to grad students, just to help contextualize the story to my audience
+For my final project, I'd like to create a story about national paid parental leave policies. For the "setup" of the story, I'll show data on gender equity measures in three different countries--one being the U.S.--to set the tone for the overall portrait of gender equity. This is often hard to conceptualize as a measurement, but the OECD does have metrics for this. For these metrics, I'd like to include data on the gender wage gap and on attitudes toward violence against women. I think this helps to paint a picture of a country's gender culture in a very practical way, via wages, along with a more conceptual and cultural metric. I'd like to include some narrative about the relevancy of the data to grad students, just to help contextualize the story to my audience
 
 I think this data will also roll into the "conflict" stage, which is where I'll show the countries' paid parental leave policies. I'll showcase how many weeks each country's paid parental leave policy is and potentially the wage data, as often parental leave policies allow for parents to receive a certain percentage of their income while on leave. Including the U.S. in an definite conflict in the overall story arc, because the U.S. simply falls to the bottom when comparing parental leave policies. Again, here I'll include narrative about some of parental leave's implications.
 
@@ -27,9 +27,13 @@ For birth rate data, I'll use data collected by the United Nations, which is pub
 
 ### Link to the dataset
 
-[Data from the OECD](https://stats.oecd.org/index.aspx?queryid=54760)
+[Data from the OECD for parental leave](https://stats.oecd.org/index.aspx?queryid=54760)
 
-[Data from the UN](https://population.un.org/dataportal/data/indicators/55/locations/840,170,752/start/1990/end/2023/table/pivotbylocation)
+[Data from the OECD for the gender wage gap](https://data.oecd.org/earnwage/gender-wage-gap.htm)
+
+[Data from the OECD on attitudes toward violence against women](https://stats.oecd.org/index.aspx?queryid=95704)
+
+[Data from the UN with example countries chosen](https://population.un.org/dataportal/data/indicators/55/locations/840,170,752/start/1990/end/2023/table/pivotbylocation)
 
 ## Method for the project
 
