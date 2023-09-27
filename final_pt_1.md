@@ -6,7 +6,7 @@ I'm interested in the effect of parental leave--both maternity and paternity lea
 
 ## Project structure
 
-For my final project, I'd like to create a story about national paid parental leave policies. For the "setup" of the story, I'll show data on gender equity measures in three different countries--one being the U.S.--to set the tone for the overall portrait of gender equity. This is often hard to conceptualize as a measurement, but the OECD does have metrics for this. For these metrics, I'd like to include data on the gender wage gap and on attitudes toward violence against women. I think this helps to paint a picture of a country's gender culture in a very practical way, via wages, along with a more conceptual and cultural metric. I'd like to include some narrative about the relevancy of the data to grad students, just to help contextualize the story to my audience
+For my final project, I'd like to create a story about national paid parental leave policies and gender. I think there are a lot of ways to take a story like this, but I want to show a story around the state of gender equality, parental leave, and birth rate. All of these are interrelated, but parental leave often is left out of large gender discussions so I'd like to take this opportunity to bring it in.For the "setup" of the story, I'll show data on gender equity measures in three different countries--one being the U.S.--to set the tone for the overall portrait of gender equity. This is often hard to conceptualize as a measurement, but the OECD does have metrics for this. For these metrics, I'd like to include data on the gender wage gap and on attitudes toward violence against women. I think this helps to paint a picture of a country's gender culture in a very practical way, via wages, along with a more conceptual and cultural metric. I'd like to include some narrative about the relevancy of the data to grad students, just to help contextualize the story to my audience
 
 I think this data will also roll into the "conflict" stage, which is where I'll show the countries' paid parental leave policies. I'll showcase how many weeks each country's paid parental leave policy is and potentially the wage data, as often parental leave policies allow for parents to receive a certain percentage of their income while on leave. Including the U.S. in an definite conflict in the overall story arc, because the U.S. simply falls to the bottom when comparing parental leave policies. Again, here I'll include narrative about some of parental leave's implications.
 
@@ -50,7 +50,13 @@ For data on the gender wage gap, attitudes toward violence against women, and pa
 
 Similarly, the United Nations is also an international organization collecting data on member countries's social, economic, and development metrics. Because the two organizations have differing country members, I'll select countries for my project that are consistent across both data sources.
 
-### Link to the datasets
+
+### Link to datasets via Google Drive
+
+For reference, my datasets as CSV files can be found [here](https://drive.google.com/drive/folders/1U_hPkUJg9I2a9oRHchuLDwBDESw-d5hK?usp=drive_link)
+
+
+### Link to the datasets online
 
 [Data from the OECD for the gender wage gap](https://data.oecd.org/earnwage/gender-wage-gap.htm)
 
@@ -62,4 +68,4 @@ Similarly, the United Nations is also an international organization collecting d
 
 ## Method for the project
 
-I'll create a Shorthand story to deliver the project's story and showcase the data visuals. I'd like it to flow well and include some family images, to really impress the human element of the story.
+I'll create a Shorthand story to deliver the project's story and the data visuals. I'd like it to flow well and include some family images, to really show the human element of the story. I plan on using Flourish or Tableau for my data visuals, depending on which chart types end up working best.
