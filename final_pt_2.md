@@ -16,11 +16,11 @@ I also want to make sure my data visuals make sense and are easy to understand. 
 |Story clarity|In one sentence, how would you describe the story being told through this project?|
 |Story clarity|What is the apex/climax moment in the story to you?|
 |Story clarity|What was your final thought about the story/message when you got to the end of the story?|
-|Story clarity, audience targeting|Who do you think would be most interested in this story (or who this story is made for), based on how it is designed currently?|
+|Story clarity, audience targeting|Who do you think would be most interested in this story, based on how it is designed currently?|
 |Data viz clarity|What do you think the most compelling/interesting piece of data is shown in this project?|
 |Data viz impact|Which data visuals hurt what you think the point of the story is?|
 |Data viz impact|Which data visuals help what you think the point of the story is?|
-|Style, aesthetic, mood|What are your thoughts about the overal project style (photos, colors, layout)? Anything stand out (either good or bad)?|
+|Style, aesthetic, mood|What are your thoughts about the overal project style? Anything stand out?|
 
 
 
@@ -31,19 +31,15 @@ Text here!
 
 | Questions               | 25 yr old woman, MSPPM grad student | 26 yr old woman, MSPPM grad student | 25 yr old woman | 26 yr old man, MSPPM grad student |
 |-------------------------|--------------------------------|-------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |             |
-|  In one sentence, how would you describe the story being told through this project?                       |                                |             |             |             |
-|                         |                                |             |             |             |
-|                         |                                |             |             |             |
-|                         |                                |             |             |             |
-|                         |                                |             |             |             |
-|                         |                                |             |             |             |
-|                         |                                |             |             |             |
-|                         |                                |             |             |             |
-|                         |                                |             |             |             |
-|                         |                                |             |             |             |
-|                         |                                |             |             |             |
-|                         |                                |             |             |             |
+|In one sentence, how would you describe the story being told through this project?|The story is about how the United States compares globally (specifically, Colombia and Finland), regarding parental leave policies|             |             |             |
+|Who do you think would be most interested in this story (or who this story is made for), based on how it is designed currently?|Adults from the United States who are parents or who are interested in becoming parents one day |             |             |             |
+|What is the apex/climax moment in the story to you?|The description, depiction, and comparison of the parental leave policies (re: weeks given) in the countries selected|             |             |             |
+|What was your final thought about the story/message when you got to the end of the story?|There should be better parental leave policies in the United States, especially when we look at how we are doing compard to other countries|             |             |             |
+|What do you think the most compelling/interesting piece of data is shown in this project?|The weeks of leave is very compelling, especially as you can hover over them.|             |             |             |
+|Which data visuals hurt what you think the point of the story is?|None of them hurt! I think that the Gender Wage Gap section may be more fitting after the section of parental leave policies and before the section on birth rates, as something that is tied to paid parental leave/gender work policies. A sentence or two tying them together would also be good, regardless!|             |             |             |
+|Which data visuals help what you think the point of the story is?|All of them help. I love the map at the beginning that compares all of the countries. It is interactive and interesting. All of the graphs are amazing. As I said before, I love that you can hover over them and get the idea of what each country offers/what their independent statistic is. |             |             |             |
+|What are your thoughts about the overal project style (photos, colors, layout)? Anything stand out (either good or bad)?|It's great! The pictures are compelling and relevant. I like the black-and-white tone in the pictures and the color for the main visualizations. It is easy and engaging to scroll down. It is simple but informative. It is not crowded with information. It's awesome!|             |             |             |
+
 
 
 # Identified changes for Part III
