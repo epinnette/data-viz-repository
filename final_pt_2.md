@@ -1,7 +1,5 @@
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
-Text here!
+I build out my wireframe/storyboard/draft in Shorthand for Part 2 of the final project.
 
 # User research 
 
@@ -9,20 +7,20 @@ Text here!
 For my story, I want to connect with young, childless adults. This is the population that might not be thinking about parenthood or having children in the immediate future, but may see that as part of their future, perhaps within the next 10 years. Because my story is focused on parental leave policies, I like this audience as a focus because they are the people who could benefit in the near future from any policy changes that may happen. I also think this is a slice of a generation today that wants to create change for their future but might not realize this particular piece of policy and society.
 
 ## Interview script
-For my user research, I really want to see how the audience understands the story. From part 1, I decided to change what data I'm pulling into this story and simplify it a bit. I want to make sure my message is clear, unified, and has some kind of impact. 
+For my user research, I really want to see how the audience understands the story. From part 1, I decided to change what data I'm pulling into this story and simplify it a bit. I want to make sure my message is clear, unified, and has some kind of impact.
+
+I also want to make sure my data visuals make sense and are easy to understand. This is important to me to make sure that the data is helpful to the story; I don't want it to feel out of place in an otherwise cohesive text. And finally, I'd like to see what people think of the overall style for the story!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |In one sentence, how would you describe the story being told through this project?|
-|      |Who do you think would be most interested in this story (or who this story is made for), based on how it is designed currently?|
-|      |                  |
-|      |                  |
-|      |                  |
-|      |                  |
-|      |                  |
-|      |                  |
-|      |                  |
-|      |                  |
+|Story clarity|In one sentence, how would you describe the story being told through this project?|
+|Story clarity, audience targeting|Who do you think would be most interested in this story (or who this story is made for), based on how it is designed currently?|
+|Story clarity|What is the apex/climax moment in the story to you?|
+|Story clarity|What was your final thought about the story/message when you got to the end of the story?|
+|Data viz clarity|What do you think the most compelling/interesting piece of data is shown in this project?|
+|Data viz impact|Which data visuals (there are 4) hurt what you think the point of the story is?|
+|Data viz impact|Which data visuals (there are 4) help what you think the point of the story is?|
+|Style, aesthetic, mood|What are your thoughts about the overal project style (photos, colors, layout)? Anything stand out (either good or bad)?|
 
 
 Text here!
