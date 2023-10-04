@@ -29,9 +29,19 @@ I also want to make sure my data visuals make sense and are easy to understand. 
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |Interview 4  |
+| Questions               | 25 yr old woman, MSPPM grad student | 26 yr old woman, MSPPM grad student | 25 yr old woman | 26 yr old man, MSPPM grad student |
 |-------------------------|--------------------------------|-------------|-------------|-------------|
 | Question you asked here | Insightful feedback            |             |             |             |
+|  In one sentence, how would you describe the story being told through this project?                       |                                |             |             |             |
+|                         |                                |             |             |             |
+|                         |                                |             |             |             |
+|                         |                                |             |             |             |
+|                         |                                |             |             |             |
+|                         |                                |             |             |             |
+|                         |                                |             |             |             |
+|                         |                                |             |             |             |
+|                         |                                |             |             |             |
+|                         |                                |             |             |             |
 |                         |                                |             |             |             |
 |                         |                                |             |             |             |
 
