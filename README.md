@@ -18,8 +18,6 @@ Extra data viz! [Check out my King county COVID chart here](king-county-demo.md)
 ## Assignment 1: Visualizing government debt
 ### [Check out my data visualizations for assignment 1 page here!](dataviz2.md)
 
-## Assignment 2
-...
 
 ## Assignment 3 & 4
 ### [Check out my redesigned data visual for assignment 3&4 here!](assign3-4.md)
@@ -30,7 +28,7 @@ Extra data viz! [Check out my King county COVID chart here](king-county-demo.md)
 ### [Part 1](final_pt_1.md) 
 
 
-### Part 2
+### [Part 2](final_pt_2.md)
 
 
 ### Part 3
