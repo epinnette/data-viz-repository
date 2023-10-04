@@ -6,17 +6,20 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Text here!
+For my story, I want to connect with young, childless adults. This is the population that might not be thinking about parenthood or having children in the immediate future, but may see that as part of their future, perhaps within the next 10 years. Because my story is focused on parental leave policies, I like this audience as a focus because they are the people who could benefit in the near future from any policy changes that may happen. I also think this is a slice of a generation today that wants to create change for their future but might not realize this particular piece of policy and society.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
+For my user research, I really want to see how the audience understands the story. From part 1, I decided to change what data I'm pulling into this story and simplify it a bit. I want to make sure my message is clear, unified, and has some kind of impact. 
 
 | Goal | Questions to Ask |
 |------|------------------|
+|      |In one sentence, how would you describe the story being told through this project?|
+|      |Who do you think would be most interested in this story (or who this story is made for), based on how it is designed currently?|
+|      |                  |
+|      |                  |
+|      |                  |
+|      |                  |
+|      |                  |
 |      |                  |
 |      |                  |
 |      |                  |
@@ -51,9 +54,6 @@ Text here!
 
 > ...include any final thoughts you have here. 
 
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+Text
 
 Text here!
