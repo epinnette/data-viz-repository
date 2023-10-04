@@ -14,27 +14,26 @@ I also want to make sure my data visuals make sense and are easy to understand. 
 | Goal | Questions to Ask |
 |------|------------------|
 |Story clarity|In one sentence, how would you describe the story being told through this project?|
-|Story clarity, audience targeting|Who do you think would be most interested in this story (or who this story is made for), based on how it is designed currently?|
 |Story clarity|What is the apex/climax moment in the story to you?|
 |Story clarity|What was your final thought about the story/message when you got to the end of the story?|
+|Story clarity, audience targeting|Who do you think would be most interested in this story (or who this story is made for), based on how it is designed currently?|
 |Data viz clarity|What do you think the most compelling/interesting piece of data is shown in this project?|
-|Data viz impact|Which data visuals (there are 4) hurt what you think the point of the story is?|
-|Data viz impact|Which data visuals (there are 4) help what you think the point of the story is?|
+|Data viz impact|Which data visuals hurt what you think the point of the story is?|
+|Data viz impact|Which data visuals help what you think the point of the story is?|
 |Style, aesthetic, mood|What are your thoughts about the overal project style (photos, colors, layout)? Anything stand out (either good or bad)?|
 
 
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |Interview 4  |
+|-------------------------|--------------------------------|-------------|-------------|-------------|
+| Question you asked here | Insightful feedback            |             |             |             |
+|                         |                                |             |             |             |
+|                         |                                |             |             |             |
 
 
 # Identified changes for Part III
