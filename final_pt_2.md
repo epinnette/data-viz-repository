@@ -4,10 +4,10 @@ I build out my wireframe/storyboard/draft in [Shorthand](https://carnegiemellon.
 # User research 
 
 ## Target audience
-For my story, I want to connect with young, childless adults. This is the population that might not be thinking about parenthood or having children in the immediate future, but may see that as part of their future, perhaps within the next 10 years. Because my story is focused on parental leave policies, I like this audience as a focus because they are the people who could benefit in the near future from any policy changes that may happen. I also think this is a slice of a generation today that wants to create change for their future but might not realize this particular piece of policy and society.
+For my story, I want to connect with young, childless adults. This is the population that might not be thinking about parenthood or having children in the immediate future, but may see that as part of their future, perhaps within the next 10 years. Because my story is focused on parental leave policies, I like this audience as a focus because they are the people who could benefit in the near future from any policy changes that may happen. I also think this is a slice of a generation today that wants to create change for their future but might not realize this particular piece of policy and society. Lucky for me, most of my friends at CMU fall into this category, so I was able to interview a few for my user research.
 
 ## Interview script
-For my user research, I really want to see how the audience understands the story. From part 1, I decided to change what data I'm pulling into this story and simplify it a bit. I want to make sure my message is clear, unified, and has some kind of impact.
+For my user research, I really wanted to see how the target audience could understand the story and if they'd take away the message I was hoping to convey. From part 1, I decided to change what data I'm pulling into this story and simplify it a bit. I want to make sure my message is clear, unified, and has some kind of impact.
 
 I also want to make sure my data visuals make sense and are easy to understand. This is important to me to make sure that the data is helpful to the story; I don't want it to feel out of place in an otherwise cohesive text. And finally, I'd like to see what people think of the overall style for the story!
 
@@ -26,8 +26,9 @@ I also want to make sure my data visuals make sense and are easy to understand. 
 
 ## Interview findings
 
+Since I ended up interviewing current and former policy students, my audience was slightly biased toward those who understand and are passionate about policy issues. Regardless, all these people meet my goal audience of being young adults who don't have children, but are considering having children in the future (and likely all having them in the United States). I think if I did another round of interviews, I'd probe a bit more into my interviewees thoughts about the data visuals, such as message effectiveness, but I am happy with the feedback I did get for this aspect. My final interview script and findings are below:
 
-| Questions               | 25 yr old woman, MSPPM grad student | 26 yr old woman, MSPPM grad student | 25 yr old woman | 26 yr old man, MSPPM grad student |
+| Questions               | 25 yr old woman, MSPPM grad student | 26 yr old woman, MSPPM grad student | 25 yr old woman, MSPPM alumna | 26 yr old man, MSPPM grad student |
 |-------------------------|--------------------------------|-------------|-------------|-------------|
 |In one sentence, how would you describe the story being told through this project?|The story is about how the United States compares globally (specifically, Colombia and Finland), regarding parental leave policies|U.S. policy does not support parentage to the same extent as other countries.|The United States' parental leave policy is significantly shorter/lacking compared to other countries.|The story being told is what policy decisions have contributed to gender disparities in the  the United States|
 |Who do you think would be most interested in this story (or who this story is made for), based on how it is designed currently?|Adults from the United States who are parents or who are interested in becoming parents one day |Legislators or everyday individuals considering whether stronger parental leave policies are needed in the U.S.|Parents who resonate with the lack of leave and would advocate for change; policymakers looking for evidence on a pressing issue; politicians looking for an initiative to rally behind|This story seems to be made for people interested in supporting policy that supports gender equity|
@@ -41,20 +42,14 @@ I also want to make sure my data visuals make sense and are easy to understand. 
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
+I'm really happy with the feedback I got from my interviewees because it was pretty consistent. A lot of the feedback also aligned with some of my own thoughts and concerns about the story thus far, so again I feel like I have a good sense of what should be done to make this presentation stronger.
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| The gender gap data isn't fitting in coherrantly into the story | I need to think a bit about the order I present the data and the overall story that is told depending on the order. I think in my current draft, I don't have enough narrative or thread to make the relationships clear. I want to make sure my three datasets (gender wage gap, parental leave, and birth rates) all make sense to be included. |
+|The birth rate graph needs more context| I think I can make this a more natural closer point with a bit more story context, but, similar to the gender wage gap graph, I want to make sure the thread is clear.|
+|Labeling countries of focus on graphs| Even though my graphs in Flourish are interactive and I was able to add special color to certain bars, I was struggling with getting the labels for each of these countries to show. I want to fix that for the final version.|
+|Labeling y-value clearly for gender wage gap graph| This metric is a little tricky to quickly understand due to the wording from the OECD, so I want to change it to be clearer for when the audience reads it. Since that graph is an overall weak point right now, I don't want there to be multiple points of confusion with the data.|
 
-> ...include any final thoughts you have here. 
 
-Text
-
-Text here!
+Beyond the feedback I got from interviewees, I know I want to work more on the style and detail of the presentation. I like my black and white theme and I want to see if I can style my graphs to align a bit with the overall aesthetic of the presentation, since right now my graphs have a bit of a modern look. But, I know some of that would be a "high time, low impact" change, so my focus will be on making changes that help the story clarity most of all.
