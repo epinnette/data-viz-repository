@@ -55,4 +55,4 @@ I'm really happy with the feedback I got from my interviewees because it was pre
 
 
 
-Beyond the feedback I got from interviewees, I know I want to work more on the style and detail of the presentation. I like my black and white theme and I want to see if I can style my graphs to align a bit with the overall aesthetic of the presentation, since right now my graphs have a bit of a modern look. But, I know some of that would be a "high time, low impact" change, so my focus will be on making changes that help the story clarity most of all.
+Beyond the feedback I got from interviewees, I know I want to work more on the style and detail of the presentation. I like my black and white theme and I want to see if I can style my graphs to align a bit with the overall aesthetic of the presentation, since right now my graphs have a bit of a modern look. But, I know some of that would be a "high time, low impact" change, so my focus will be on making changes that help the story clarity most of all. Overall I feel like I'm at a good place to build my text for the narrative and to make changes so that the story is clear!
