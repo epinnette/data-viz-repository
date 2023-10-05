@@ -50,6 +50,9 @@ I'm really happy with the feedback I got from my interviewees because it was pre
 |The birth rate graph needs more context| I think I can make this a more natural closer point with a bit more story context, but, similar to the gender wage gap graph, I want to make sure the thread is clear.|
 |Labeling countries of focus on graphs| Even though my graphs in Flourish are interactive and I was able to add special color to certain bars, I was struggling with getting the labels for each of these countries to show. I want to fix that for the final version.|
 |Labeling y-value clearly for gender wage gap graph| This metric is a little tricky to quickly understand due to the wording from the OECD, so I want to change it to be clearer for when the audience reads it. Since that graph is an overall weak point right now, I don't want there to be multiple points of confusion with the data.|
+|The maternity and paternity graphs are getting flagged as the apex/climax| This is great--this is what I was hoping for. I think I might try to make it even clearer or make the build-up more interesting somehow with Shorthand's tools, but I was glad to see this feedback|
+|Interviewees liked the style/theme of the presentation| Again, I was happy with this. I tried to create something a bit dramatic and as "human" as possible, since I decided not to make my audience policymakers but instead the average young adult. I'm glad that seemed to work according to these interviewees!|
+
 
 
 Beyond the feedback I got from interviewees, I know I want to work more on the style and detail of the presentation. I like my black and white theme and I want to see if I can style my graphs to align a bit with the overall aesthetic of the presentation, since right now my graphs have a bit of a modern look. But, I know some of that would be a "high time, low impact" change, so my focus will be on making changes that help the story clarity most of all.
