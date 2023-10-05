@@ -25,9 +25,7 @@ I also want to make sure my data visuals make sense and are easy to understand. 
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
 
 | Questions               | 25 yr old woman, MSPPM grad student | 26 yr old woman, MSPPM grad student | 25 yr old woman | 26 yr old man, MSPPM grad student |
 |-------------------------|--------------------------------|-------------|-------------|-------------|
