@@ -1,5 +1,5 @@
 # Wireframes / storyboards
-I build out my wireframe/storyboard/draft in Shorthand for Part 2 of the final project.
+I build out my wireframe/storyboard/draft in [Shorthand](https://carnegiemellon.shorthandstories.com/paid-parental-leave/index.html) for Part 2 of the final project.
 
 # User research 
 
