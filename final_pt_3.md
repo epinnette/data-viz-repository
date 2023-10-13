@@ -1,1 +1,3 @@
-# Part 3: Final project
+# Final Project: Part 3
+
+## Coming soon!
