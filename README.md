@@ -11,7 +11,9 @@ My goal for the class is to learn how to make beautiful and meaningful data visu
 
 # Portfolio
 
-Extra data viz! [Check out my King county COVID chart here](king-county-demo.md)
+Extra data viz! Enjoy :)
+
+[Check out my King county COVID chart here](king-county-demo.md)
 
 [Check out my Trust in News Media chart here](trust_in_media.md)
 
@@ -31,7 +33,7 @@ Extra data viz! [Check out my King county COVID chart here](king-county-demo.md)
 ### [Part 2](final_pt_2.md)
 
 
-### Part 3
+### [Part 3]
 
 
 For now, please enjoy *Distant Thunder* by Andrew Wyeth
