@@ -10,13 +10,6 @@ I grew up in Maine but have also lived in California, Iowa, Washington DC, Michi
 My goal for the class is to learn how to make beautiful and meaningful data visuals to better communicate policy-relevant data. Data visuals are powerful in policy and important to communicate ideas to the public! After I graduate, I'd like to work in the program evaluation space to assess the impact of social programs so that funding is used effectively to improve social issues.
 
 # Portfolio
-
-Extra data viz! Enjoy :)
-
-[Check out my King county COVID chart here](king-county-demo.md)
-
-[Check out my Trust in News Media chart here](trust_in_media.md)
-
 ## Assignment 1: Visualizing government debt
 ### [Check out my data visualizations for assignment 1 page here!](dataviz2.md)
 
@@ -26,13 +19,15 @@ Extra data viz! Enjoy :)
 
 
 ## Final project
-
 ### [Part 1](final_pt_1.md) 
 
-
 ### [Part 2](final_pt_2.md)
-
 
 ### [Part 3](final_pt_3.md)
 
 
+# Extra Data Viz
+
+## Extra data viz #1: [Check out my King county COVID chart here](king-county-demo.md)
+
+## Extra data viz #2: [Check out my Trust in News Media chart here](trust_in_media.md)
