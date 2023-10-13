@@ -21,7 +21,7 @@ Extra data viz! Enjoy :)
 ### [Check out my data visualizations for assignment 1 page here!](dataviz2.md)
 
 
-## Assignment 3 & 4
+## Assignment 3 & 4: Critique by Design
 ### [Check out my redesigned data visual for assignment 3&4 here!](assign3-4.md)
 
 
@@ -34,11 +34,5 @@ Extra data viz! Enjoy :)
 
 
 ### [Part 3](final_pt_3.md)
-
-
-For now, please enjoy *Distant Thunder* by Andrew Wyeth
-
-![distant thunder_andrew wyeth](https://github.com/epinnette/data-viz-repository/assets/143022629/856b2144-02f2-483c-808b-25dfd307be21)
-
 
 
