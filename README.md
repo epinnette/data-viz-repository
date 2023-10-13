@@ -26,8 +26,7 @@ My goal for the class is to learn how to make beautiful and meaningful data visu
 ### [Part 3](final_pt_3.md)
 
 
-# Extra Data Viz
+## Extra Data Viz
+### Extra data viz #1: [Check out my King county COVID chart here](king-county-demo.md)
 
-## Extra data viz #1: [Check out my King county COVID chart here](king-county-demo.md)
-
-## Extra data viz #2: [Check out my Trust in News Media chart here](trust_in_media.md)
+### Extra data viz #2: [Check out my Trust in News Media chart here](trust_in_media.md)
