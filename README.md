@@ -33,7 +33,7 @@ Extra data viz! Enjoy :)
 ### [Part 2](final_pt_2.md)
 
 
-### [Part 3]
+### [Part 3](final_pt_3.md)
 
 
 For now, please enjoy *Distant Thunder* by Andrew Wyeth
