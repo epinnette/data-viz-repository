@@ -13,7 +13,7 @@ It was also helpful that I'd settled my audience as young-adults, since this hel
 I also made some changes to my graphs so that they were clearer. I ended up keeping my bar charts, which aren't the most interesting data visuals, but I think it was the best way to showcase the data and I didn't want to lose message clarity by using more novel styles.
 
 
-## The Making Of: Final Version
+## To Summarize: Making the Final Project
 I knew early on what I wanted the feeling of my story to be, which was more emotional and thoughtful, rather than a policy-focused story aimed at a policymaker or business client, which tends to be quite dry. I wanted to go with a personal angle and I kept my black-and-white theme and tried to pull in color for my country call-outs. From Part 1 to Part 3, I tried to keep this emotion-focused element to my visuals and narrative while telling an, utimately, data-driven story.
 
 My final version is scaled back from my original idea in Part 1, but I think that the scale was a bit infeasible and ultimately too complicated for the assignment. The best choice I made was to work to whittle my scope to tell a clearer story. Ultimately, I think my story is somewhat of a thought exercise, which is meaningful but probably more effective with a narrow message.
